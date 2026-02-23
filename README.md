@@ -4,6 +4,9 @@
 - Node.js (v18 o superior)
 - PostgreSQL (v14 o superior)
 
+### Editor de código
+-Visual Studio Code
+
 ### 1. Configuración de la Base de Datos
 1. Crea una base de datos en PostgreSQL llamada `ludoteca`.
 2. Ejecuta el contenido del archivo `database.sql` (ubicado en la raíz) para crear las tablas e insertar los datos iniciales.
@@ -26,3 +29,4 @@
 | **Administrador** | Juan | admin123 |
 | **Alumno** | Oscar | alum123 |
 | **Alumno** | Raul | alum456 |
+
